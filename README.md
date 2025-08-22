@@ -17,5 +17,5 @@ It suggests **suitable industry roles** based on the user's skills.
 ## 📦 Installation
 Clone this repo:
 ```bash
-git clone https://github.com/YOUR_USERNAME/chatbot-with-avatar.git
+git clone https://github.com/sowmyakrishnamurthy25/chatbot-with-avatar.git
 cd chatbot-with-avatar
